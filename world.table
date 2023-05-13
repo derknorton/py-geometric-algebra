@@ -1,0 +1,10 @@
+	1	x	y	z	yz	zx	xy	xyz	
+-------------------------------------------------------------------
+1	1	x	y	z	yz	zx	xy	xyz	
+x	x	-1	xy	-zx	xyz	z	-y	-yz	
+y	y	-xy	-1	yz	-z	xyz	x	-zx	
+z	z	zx	-yz	-1	y	-x	xyz	-xy	
+yz	yz	xyz	z	-y	-1	xy	-zx	-x	
+zx	zx	-z	xyz	x	-xy	-1	yz	-y	
+xy	xy	y	-x	xyz	zx	-yz	-1	-z	
+xyz	xyz	-yz	-zx	-xy	-x	-y	-z	1	
